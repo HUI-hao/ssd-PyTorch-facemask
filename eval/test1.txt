@@ -1,0 +1,2700 @@
+
+GROUND TRUTH FOR: 00017_Mask_Chin
+label: 200.0 || 233.0 || 762.0 || 947.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9931) 220.49548 || 330.80267 || 739.59827 || 949.7404
+
+GROUND TRUTH FOR: 00019_Mask_Chin
+label: 211.0 || 315.0 || 746.0 || 908.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9956) 174.26779 || 307.31354 || 748.8291 || 926.2482
+
+GROUND TRUTH FOR: 00026_Mask_Mouth_Chin
+label: 223.0 || 271.0 || 785.0 || 854.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 206.93054 || 305.3131 || 803.7372 || 835.51843
+
+GROUND TRUTH FOR: 00033_Mask_Mouth_Chin
+label: 181.0 || 247.0 || 730.0 || 994.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9964) 91.90369 || 217.87415 || 788.91833 || 1017.0564
+
+GROUND TRUTH FOR: 00041_Mask_Mouth_Chin
+label: 253.0 || 359.0 || 793.0 || 938.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 259.698 || 287.4018 || 794.06946 || 934.19977
+
+GROUND TRUTH FOR: 00050_Mask_Mouth_Chin
+label: 199.0 || 219.0 || 814.0 || 891.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 203.5011 || 278.74405 || 802.98804 || 863.9464
+
+GROUND TRUTH FOR: 00057_Mask_Mouth_Chin
+label: 195.0 || 254.0 || 776.0 || 984.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 193.57996 || 293.61093 || 781.7862 || 982.0404
+
+GROUND TRUTH FOR: 00109_Mask_Mouth_Chin
+label: 202.0 || 357.0 || 667.0 || 931.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9772) 171.78928 || 377.1189 || 695.54065 || 918.1279
+
+GROUND TRUTH FOR: 00112_Mask_Mouth_Chin
+label: 314.0 || 394.0 || 906.0 || 952.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 282.79355 || 352.27985 || 909.6089 || 1003.1778
+
+GROUND TRUTH FOR: 00127_Mask_Chin
+label: 223.0 || 238.0 || 742.0 || 978.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 213.04456 || 286.25388 || 752.66284 || 959.9313
+
+GROUND TRUTH FOR: 00136_Mask_Mouth_Chin
+label: 290.0 || 300.0 || 837.0 || 922.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 281.25592 || 340.97394 || 859.6031 || 913.9378
+
+GROUND TRUTH FOR: 00143_Mask_Mouth_Chin
+label: 176.0 || 152.0 || 814.0 || 938.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 186.70154 || 185.56488 || 805.8327 || 956.80634
+
+GROUND TRUTH FOR: 00153_Mask_Mouth_Chin
+label: 285.0 || 319.0 || 860.0 || 992.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 284.69193 || 407.40942 || 826.45886 || 999.615
+
+GROUND TRUTH FOR: 00167_Mask_Mouth_Chin
+label: 235.0 || 291.0 || 835.0 || 966.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 258.3523 || 340.1129 || 822.88965 || 942.64014
+
+GROUND TRUTH FOR: 00171_Mask_Mouth_Chin
+label: 227.0 || 243.0 || 769.0 || 943.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9976) 254.03348 || 366.28705 || 782.412 || 910.7398
+
+GROUND TRUTH FOR: 00180_Mask_Mouth_Chin
+label: 167.0 || 166.0 || 742.0 || 907.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9987) 137.56601 || 169.17981 || 757.0436 || 905.1139
+
+GROUND TRUTH FOR: 00189_Mask_Chin
+label: 183.0 || 259.0 || 763.0 || 985.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9978) 177.82312 || 281.7494 || 755.0898 || 952.806
+
+GROUND TRUTH FOR: 00202_Mask_Mouth_Chin
+label: 256.0 || 408.0 || 781.0 || 907.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 252.32024 || 388.63416 || 752.6986 || 893.7191
+
+GROUND TRUTH FOR: 00209_Mask_Mouth_Chin
+label: 253.0 || 289.0 || 811.0 || 977.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 268.60507 || 338.72864 || 829.44495 || 956.2073
+
+GROUND TRUTH FOR: 00214_Mask_Mouth_Chin
+label: 270.0 || 294.0 || 913.0 || 922.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 265.75867 || 314.21295 || 897.48425 || 966.3946
+
+GROUND TRUTH FOR: 00226_Mask_Mouth_Chin
+label: 188.0 || 322.0 || 835.0 || 926.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9999) 197.29764 || 291.9582 || 846.10767 || 932.6342
+
+GROUND TRUTH FOR: 00236_Mask_Mouth_Chin
+label: 274.0 || 312.0 || 818.0 || 968.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9969) 292.36896 || 345.72357 || 809.3991 || 958.8952
+
+GROUND TRUTH FOR: 00254_Mask_Mouth_Chin
+label: 176.0 || 273.0 || 721.0 || 975.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9846) 147.66922 || 294.34555 || 753.11975 || 991.14636
+
+GROUND TRUTH FOR: 00273_Mask_Nose_Mouth
+label: 253.0 || 226.0 || 846.0 || 971.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 248.091 || 250.24936 || 833.29865 || 981.272
+
+GROUND TRUTH FOR: 0029
+label: 436.0 || 57.0 || 582.0 || 245.0 || 0
+
+GROUND TRUTH FOR: 00291_Mask_Mouth_Chin
+label: 241.0 || 236.0 || 876.0 || 847.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 273.8273 || 273.6906 || 847.208 || 863.22894
+
+GROUND TRUTH FOR: 00297_Mask_Mouth_Chin
+label: 176.0 || 243.0 || 755.0 || 929.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9986) 183.34494 || 235.65549 || 754.0908 || 927.11
+
+GROUND TRUTH FOR: 00298_Mask_Mouth_Chin
+label: 220.0 || 326.0 || 839.0 || 996.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9992) 223.48169 || 315.5016 || 820.73596 || 995.2333
+
+GROUND TRUTH FOR: 00305_Mask_Mouth_Chin
+label: 249.0 || 317.0 || 855.0 || 1001.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 255.51208 || 231.18613 || 848.91113 || 991.0287
+
+GROUND TRUTH FOR: 00312_Mask_Mouth_Chin
+label: 232.0 || 391.0 || 855.0 || 929.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9939) 258.11282 || 387.01135 || 802.20776 || 911.0814
+
+GROUND TRUTH FOR: 00342_Mask_Mouth_Chin
+label: 234.0 || 412.0 || 848.0 || 952.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9983) 241.39749 || 397.43015 || 800.4712 || 949.6797
+
+GROUND TRUTH FOR: 00344_Mask_Mouth_Chin
+label: 137.0 || 354.0 || 725.0 || 1000.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9245) 153.44498 || 338.54672 || 724.98206 || 1001.6432
+
+GROUND TRUTH FOR: 00379_Mask_Mouth_Chin
+label: 207.0 || 247.0 || 767.0 || 959.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 192.4631 || 238.14917 || 791.98486 || 964.8545
+
+GROUND TRUTH FOR: 00389_Mask_Mouth_Chin
+label: 262.0 || 317.0 || 774.0 || 912.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9957) 242.69403 || 336.20645 || 756.8875 || 948.9988
+
+GROUND TRUTH FOR: 00399_Mask_Nose_Mouth
+label: 348.0 || 314.0 || 897.0 || 945.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9973) 317.2287 || 249.23318 || 857.5278 || 991.30444
+
+GROUND TRUTH FOR: 0091
+label: 395.0 || 95.0 || 663.0 || 402.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9842) 396.86148 || 78.46038 || 633.8872 || 397.65887
+
+GROUND TRUTH FOR: 0115
+label: 257.0 || 51.0 || 429.0 || 251.0 || 0
+
+GROUND TRUTH FOR: 0153
+label: 110.0 || 65.0 || 360.0 || 405.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9992) 114.514084 || 83.075165 || 351.1055 || 398.99847
+
+GROUND TRUTH FOR: 0198
+label: 586.0 || 63.0 || 1033.0 || 475.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 623.58923 || 48.135674 || 1014.2108 || 475.25134
+
+GROUND TRUTH FOR: 0201
+label: 415.0 || 119.0 || 838.0 || 666.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9996) 454.32065 || 163.04568 || 818.3862 || 675.21124
+
+GROUND TRUTH FOR: 0212
+label: 261.0 || 31.0 || 496.0 || 303.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9923) 283.17737 || 64.76699 || 487.43323 || 303.62643
+
+GROUND TRUTH FOR: 0243
+label: 195.0 || 61.0 || 818.0 || 579.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.6919) 218.61264 || 139.07707 || 691.1605 || 658.09076
+
+GROUND TRUTH FOR: 0323
+label: 122.0 || 65.0 || 484.0 || 604.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9972) 119.58951 || 88.65246 || 458.39993 || 554.1024
+
+GROUND TRUTH FOR: 0387
+label: 164.0 || 90.0 || 469.0 || 506.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9860) 160.63261 || 155.0893 || 473.1325 || 505.858
+
+GROUND TRUTH FOR: 0466
+label: 204.0 || 101.0 || 423.0 || 364.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9838) 203.17116 || 131.47484 || 401.6145 || 370.3386
+
+GROUND TRUTH FOR: 0577
+label: 117.0 || 87.0 || 414.0 || 545.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9981) 135.78018 || 119.0289 || 447.04984 || 576.9211
+
+GROUND TRUTH FOR: 0583
+label: 1030.0 || 334.0 || 2021.0 || 1453.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9864) 1125.4086 || 380.21762 || 2035.6335 || 1372.3239
+
+GROUND TRUTH FOR: 0639
+label: 156.0 || 6.0 || 683.0 || 531.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9761) 115.36386 || 9.569103 || 638.49927 || 610.6502
+
+GROUND TRUTH FOR: 0644
+label: 334.0 || 149.0 || 616.0 || 423.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.8684) 321.5882 || 62.825787 || 601.3712 || 508.76727
+
+GROUND TRUTH FOR: 0690
+label: 179.0 || 312.0 || 651.0 || 975.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9992) 192.41612 || 378.0225 || 596.805 || 960.7521
+
+GROUND TRUTH FOR: 0761
+label: 241.0 || 81.0 || 527.0 || 477.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9901) 245.36006 || 134.13242 || 549.7365 || 490.939
+
+GROUND TRUTH FOR: 0769
+label: 148.0 || 74.0 || 400.0 || 406.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9986) 167.53046 || 123.333 || 400.97833 || 424.36557
+
+GROUND TRUTH FOR: 0779
+label: 168.0 || 7.0 || 645.0 || 712.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9987) 175.45891 || 126.68863 || 637.80676 || 691.4525
+
+GROUND TRUTH FOR: 0951
+label: 177.0 || 44.0 || 519.0 || 383.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9974) 182.36493 || 34.093693 || 528.367 || 380.30057
+
+GROUND TRUTH FOR: 0988
+label: 565.0 || 12.0 || 1064.0 || 562.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9970) 547.30646 || 3.658325 || 1074.557 || 584.9723
+
+GROUND TRUTH FOR: 101
+label: 41.0 || 62.0 || 295.0 || 371.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9557) 68.64055 || 84.446365 || 299.23532 || 331.87375
+
+GROUND TRUTH FOR: 1039
+label: 267.0 || 51.0 || 568.0 || 381.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9875) 285.2681 || 75.34393 || 573.85315 || 403.83527
+
+GROUND TRUTH FOR: 1083
+label: 112.0 || 29.0 || 460.0 || 476.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9894) 114.84676 || 35.069447 || 471.37048 || 479.10187
+
+GROUND TRUTH FOR: 1137
+label: 335.0 || 93.0 || 592.0 || 402.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 343.31708 || 78.843864 || 582.01746 || 400.65067
+
+GROUND TRUTH FOR: 128
+label: 60.0 || 35.0 || 258.0 || 284.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7391) 22.975445 || 63.79044 || 213.6635 || 326.56827
+
+GROUND TRUTH FOR: 148
+label: 71.0 || 47.0 || 290.0 || 334.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9531) 50.50645 || 85.94023 || 257.35425 || 330.8822
+
+GROUND TRUTH FOR: 149
+label: 38.0 || 88.0 || 287.0 || 394.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9785) 73.59731 || 72.67404 || 326.59094 || 324.80133
+
+GROUND TRUTH FOR: 1503
+label: 570.0 || 314.0 || 646.0 || 415.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9207) 564.11707 || 315.9751 || 653.69763 || 407.67392
+
+GROUND TRUTH FOR: 1512
+label: 266.0 || 117.0 || 564.0 || 538.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 267.06003 || 117.69859 || 546.958 || 550.4143
+
+GROUND TRUTH FOR: 153
+label: 8.0 || 17.0 || 190.0 || 244.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9317) 30.112673 || 42.348156 || 167.06851 || 193.57178
+
+GROUND TRUTH FOR: 1553
+label: 161.0 || 83.0 || 391.0 || 351.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9935) 165.65204 || 75.92274 || 389.89957 || 361.57114
+
+GROUND TRUTH FOR: 1556
+label: 269.0 || 137.0 || 472.0 || 429.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9982) 235.6824 || 121.86943 || 481.0154 || 420.79935
+
+GROUND TRUTH FOR: 1589
+label: 29.0 || 159.0 || 336.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9786) 31.496157 || 130.57414 || 343.41153 || 487.72293
+
+GROUND TRUTH FOR: 1600
+label: 842.0 || 110.0 || 1249.0 || 647.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9864) 824.46204 || 102.17821 || 1225.1458 || 637.13745
+
+GROUND TRUTH FOR: 161
+label: 13.0 || 81.0 || 156.0 || 254.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9878) 52.522713 || 40.51044 || 218.00237 || 184.11809
+
+GROUND TRUTH FOR: 1702
+label: 215.0 || 59.0 || 500.0 || 391.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9979) 221.17647 || 38.333237 || 508.31033 || 390.88882
+
+GROUND TRUTH FOR: 174
+label: 56.0 || 89.0 || 241.0 || 325.0 || 1
+
+GROUND TRUTH FOR: 177
+label: 94.0 || 44.0 || 186.0 || 150.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9548) 88.17644 || 33.970104 || 163.47203 || 161.04701
+
+GROUND TRUTH FOR: 1818
+label: 144.0 || 158.0 || 348.0 || 409.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 154.47343 || 159.31752 || 346.6548 || 402.92987
+
+GROUND TRUTH FOR: 1829
+label: 262.0 || 204.0 || 523.0 || 504.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9991) 261.52667 || 181.27803 || 554.7906 || 528.4069
+
+GROUND TRUTH FOR: 1877
+label: 891.0 || 882.0 || 1981.0 || 2122.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 854.838 || 693.4466 || 1965.0835 || 2143.949
+
+GROUND TRUTH FOR: 1889
+label: 1133.0 || 538.0 || 2061.0 || 1710.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 1062.5947 || 414.0724 || 2088.6597 || 1689.7577
+
+GROUND TRUTH FOR: 19
+label: 59.0 || 84.0 || 282.0 || 365.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9800) 43.754074 || 77.40554 || 260.16028 || 344.96536
+
+GROUND TRUTH FOR: 1959
+label: 341.0 || 307.0 || 945.0 || 910.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9995) 375.73926 || 307.7788 || 943.20605 || 963.00635
+
+GROUND TRUTH FOR: 1997
+label: 222.0 || 149.0 || 766.0 || 912.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9985) 247.73445 || 161.8688 || 782.0124 || 873.3008
+
+GROUND TRUTH FOR: 203
+label: 108.0 || 35.0 || 197.0 || 157.0 || 1
+
+GROUND TRUTH FOR: 212
+label: 33.0 || 74.0 || 260.0 || 333.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8846) 38.16169 || 91.59057 || 240.93288 || 318.64178
+
+GROUND TRUTH FOR: 2173
+label: 218.0 || 74.0 || 417.0 || 322.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9975) 227.20094 || 68.03048 || 419.50073 || 313.97638
+
+GROUND TRUTH FOR: 2190
+label: 316.0 || 23.0 || 568.0 || 305.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9805) 318.93527 || 27.3486 || 584.08813 || 317.871
+
+GROUND TRUTH FOR: 224
+label: 36.0 || 87.0 || 280.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9761) 57.608246 || 105.15614 || 278.38586 || 347.7222
+
+GROUND TRUTH FOR: 2250
+label: 426.0 || 34.0 || 810.0 || 490.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9941) 360.83575 || -7.6866884 || 849.82275 || 576.64075
+
+GROUND TRUTH FOR: 2264
+label: 149.0 || 65.0 || 550.0 || 543.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 152.48946 || 47.442028 || 564.7216 || 549.8572
+
+GROUND TRUTH FOR: 2317
+label: 196.0 || 73.0 || 415.0 || 393.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 184.51973 || 69.797554 || 425.91486 || 386.6366
+
+GROUND TRUTH FOR: 2409
+label: 201.0 || 138.0 || 357.0 || 292.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9784) 139.58696 || 94.16906 || 361.5786 || 316.8265
+
+GROUND TRUTH FOR: 2483
+label: 14.0 || 57.0 || 298.0 || 506.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 6.0471454 || 41.015034 || 305.98926 || 505.98093
+
+GROUND TRUTH FOR: 258
+label: 47.0 || 64.0 || 276.0 || 359.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9806) 38.06989 || 73.151665 || 269.23132 || 332.4984
+
+GROUND TRUTH FOR: 2592
+label: 254.0 || 78.0 || 811.0 || 622.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9586) 283.8903 || 41.845734 || 828.7546 || 623.4631
+
+GROUND TRUTH FOR: 2638
+label: 101.0 || 196.0 || 438.0 || 631.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 111.15464 || 181.57959 || 434.66122 || 620.1554
+
+GROUND TRUTH FOR: 2659
+label: 186.0 || 33.0 || 511.0 || 524.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9996) 176.38545 || 9.603358 || 523.0278 || 528.9014
+
+GROUND TRUTH FOR: 266
+label: 63.0 || 114.0 || 269.0 || 372.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9198) 56.285957 || 80.35981 || 275.9334 || 353.02917
+
+GROUND TRUTH FOR: 2662
+label: 67.0 || 79.0 || 384.0 || 454.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 84.23498 || 51.8201 || 374.8537 || 475.67
+
+GROUND TRUTH FOR: 269
+label: 60.0 || 90.0 || 225.0 || 280.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7968) 66.19974 || 100.628265 || 225.36197 || 283.1617
+
+GROUND TRUTH FOR: 276
+label: 73.0 || 65.0 || 162.0 || 175.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.6024) 73.095085 || 15.9386635 || 167.26764 || 138.95822
+
+GROUND TRUTH FOR: 28
+label: 40.0 || 139.0 || 306.0 || 415.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9929) 157.87062 || 95.6636 || 397.97852 || 358.8657
+
+GROUND TRUTH FOR: 281
+label: 39.0 || 70.0 || 163.0 || 213.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9321) 54.903263 || 32.624744 || 179.10521 || 200.70877
+
+GROUND TRUTH FOR: 285
+label: 93.0 || 56.0 || 274.0 || 290.0 || 1
+
+GROUND TRUTH FOR: 29
+label: 67.0 || 125.0 || 246.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9539) 69.05142 || 105.22133 || 263.6823 || 349.51996
+
+GROUND TRUTH FOR: 294
+label: 51.0 || 89.0 || 265.0 || 378.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9431) 70.25727 || 75.00772 || 313.71707 || 322.38885
+
+GROUND TRUTH FOR: 298
+label: 9.0 || 127.0 || 255.0 || 403.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9741) 70.53341 || 61.166016 || 326.0923 || 301.2631
+
+GROUND TRUTH FOR: 299
+label: 166.0 || 35.0 || 363.0 || 249.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7923) 25.735163 || 293.80927 || 191.60222 || 547.5414
+
+GROUND TRUTH FOR: 309
+label: 68.0 || 92.0 || 271.0 || 371.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8884) 51.368664 || 79.80661 || 277.22614 || 344.47107
+
+GROUND TRUTH FOR: 338
+label: 65.0 || 118.0 || 273.0 || 381.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8605) 68.6103 || 59.18599 || 299.09854 || 330.7344
+
+GROUND TRUTH FOR: 345
+label: 47.0 || 79.0 || 273.0 || 370.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9309) 46.66659 || 70.587845 || 262.86044 || 344.37442
+
+GROUND TRUTH FOR: 348
+label: 55.0 || 88.0 || 264.0 || 359.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9291) 58.020615 || 92.15012 || 276.6131 || 350.5752
+
+GROUND TRUTH FOR: 51
+label: 65.0 || 91.0 || 257.0 || 343.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8021) 61.920143 || 79.629814 || 265.74768 || 326.5045
+
+GROUND TRUTH FOR: 56
+label: 67.0 || 80.0 || 268.0 || 381.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8076) 69.62823 || 80.36223 || 298.70993 || 325.5005
+
+GROUND TRUTH FOR: 76
+label: 30.0 || 96.0 || 154.0 || 245.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9066) 27.030247 || 86.90976 || 172.2569 || 259.24615
+
+GROUND TRUTH FOR: 79
+label: 52.0 || 14.0 || 185.0 || 198.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9925) 42.221664 || 30.611355 || 161.63185 || 201.76956
+
+GROUND TRUTH FOR: 92
+label: 58.0 || 145.0 || 306.0 || 410.0 || 1
+PREDICTIONS: 
+1 label: mask score: tensor(0.6743) 152.75325 || 2.0734348 || 364.58273 || 121.8014
+
+GROUND TRUTH FOR: 95
+label: 53.0 || 91.0 || 263.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9055) 52.749958 || 95.65614 || 286.1545 || 348.1762
+
+GROUND TRUTH FOR: real_00003
+label: 107.0 || 120.0 || 416.0 || 575.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9922) 99.3472 || 120.00393 || 408.1859 || 572.1478
+
+GROUND TRUTH FOR: real_00004
+label: 150.0 || 127.0 || 433.0 || 559.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9985) 125.384346 || 109.38892 || 467.65436 || 568.0983
+
+GROUND TRUTH FOR: real_00011
+label: 148.0 || 121.0 || 458.0 || 560.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 143.50972 || 87.48039 || 483.9504 || 581.2297
+
+GROUND TRUTH FOR: real_00017
+label: 118.0 || 126.0 || 485.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9990) 92.110275 || 126.19475 || 491.47705 || 587.3371
+
+GROUND TRUTH FOR: real_00022
+label: 129.0 || 90.0 || 476.0 || 557.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 101.95559 || 79.09128 || 498.915 || 582.51984
+
+GROUND TRUTH FOR: real_00026
+label: 71.0 || 111.0 || 517.0 || 591.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 80.87171 || 102.71175 || 468.82635 || 584.304
+
+GROUND TRUTH FOR: real_00036
+label: 112.0 || 108.0 || 447.0 || 583.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9977) 108.45371 || 132.20013 || 450.33597 || 568.76843
+
+GROUND TRUTH FOR: real_00069
+label: 70.0 || 130.0 || 477.0 || 591.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9986) 71.995125 || 59.88863 || 489.6278 || 591.5997
+
+GROUND TRUTH FOR: real_00072
+label: 106.0 || 98.0 || 510.0 || 545.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 106.15602 || 97.261475 || 485.02127 || 569.19586
+
+GROUND TRUTH FOR: real_00077
+label: 106.0 || 97.0 || 516.0 || 550.0 || 1
+PREDICTIONS: 
+1 label: mask score: tensor(0.9008) 41.435104 || 130.40811 || 495.98 || 577.86926
+
+GROUND TRUTH FOR: real_00083
+label: 131.0 || 200.0 || 448.0 || 587.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9941) 108.21211 || 176.47379 || 457.04214 || 586.25183
+
+GROUND TRUTH FOR: real_00089
+label: 99.0 || 122.0 || 469.0 || 592.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 83.15946 || 87.913155 || 501.45663 || 597.18317
+
+GROUND TRUTH FOR: real_00096
+label: 112.0 || 132.0 || 505.0 || 581.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 122.42832 || 125.68556 || 509.60382 || 588.0204
+
+GROUND TRUTH FOR: real_00099
+label: 98.0 || 151.0 || 564.0 || 592.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 86.91596 || 113.64271 || 573.8389 || 569.9506
+
+GROUND TRUTH FOR: real_00986
+label: 107.0 || 163.0 || 460.0 || 567.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9987) 100.27903 || 131.53378 || 454.53125 || 575.09955
+
+GROUND TRUTH FOR: real_01016
+label: 129.0 || 114.0 || 452.0 || 560.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9984) 131.09262 || 85.90147 || 449.42114 || 571.35913
+
+GROUND TRUTH FOR: real_01020
+label: 110.0 || 157.0 || 528.0 || 576.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 129.29585 || 153.1252 || 503.00266 || 585.9033
+
+GROUND TRUTH FOR: real_01025
+label: 65.0 || 122.0 || 431.0 || 562.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9961) 50.456394 || 102.18041 || 428.53656 || 583.7594
+
+GROUND TRUTH FOR: real_01045
+label: 105.0 || 161.0 || 496.0 || 563.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 112.48659 || 124.7624 || 489.11795 || 556.96906
+
+GROUND TRUTH FOR: real_01059
+label: 113.0 || 133.0 || 447.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9992) 104.29008 || 127.11763 || 468.4554 || 581.4427
+
+GROUND TRUTH FOR: real_01063
+label: 120.0 || 168.0 || 453.0 || 597.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9947) 112.44906 || 219.74403 || 452.66077 || 567.01807
+
+GROUND TRUTH FOR: real_01065
+label: 121.0 || 159.0 || 463.0 || 565.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 119.98969 || 171.62434 || 486.98306 || 575.4052
+
+GROUND TRUTH FOR: 00017_Mask_Chin
+label: 200.0 || 233.0 || 762.0 || 947.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9931) 220.49551 || 330.80276 || 739.59827 || 949.7405
+
+GROUND TRUTH FOR: 00019_Mask_Chin
+label: 211.0 || 315.0 || 746.0 || 908.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9956) 174.26773 || 307.3135 || 748.8291 || 926.2483
+
+GROUND TRUTH FOR: 00026_Mask_Mouth_Chin
+label: 223.0 || 271.0 || 785.0 || 854.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 206.93057 || 305.3131 || 803.7372 || 835.51843
+
+GROUND TRUTH FOR: 00033_Mask_Mouth_Chin
+label: 181.0 || 247.0 || 730.0 || 994.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9964) 91.90369 || 217.87415 || 788.91833 || 1017.0564
+
+GROUND TRUTH FOR: 00041_Mask_Mouth_Chin
+label: 253.0 || 359.0 || 793.0 || 938.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 259.698 || 287.40173 || 794.06934 || 934.1997
+
+GROUND TRUTH FOR: 00050_Mask_Mouth_Chin
+label: 199.0 || 219.0 || 814.0 || 891.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 203.50113 || 278.744 || 802.98804 || 863.9463
+
+GROUND TRUTH FOR: 00057_Mask_Mouth_Chin
+label: 195.0 || 254.0 || 776.0 || 984.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 193.57999 || 293.61093 || 781.78625 || 982.0404
+
+GROUND TRUTH FOR: 00109_Mask_Mouth_Chin
+label: 202.0 || 357.0 || 667.0 || 931.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9772) 171.78928 || 377.1189 || 695.54065 || 918.1279
+
+GROUND TRUTH FOR: 00112_Mask_Mouth_Chin
+label: 314.0 || 394.0 || 906.0 || 952.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 282.79355 || 352.2798 || 909.6089 || 1003.17773
+
+GROUND TRUTH FOR: 00127_Mask_Chin
+label: 223.0 || 238.0 || 742.0 || 978.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 213.04453 || 286.2538 || 752.66296 || 959.9313
+
+GROUND TRUTH FOR: 00136_Mask_Mouth_Chin
+label: 290.0 || 300.0 || 837.0 || 922.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 281.25586 || 340.974 || 859.60315 || 913.93787
+
+GROUND TRUTH FOR: 00143_Mask_Mouth_Chin
+label: 176.0 || 152.0 || 814.0 || 938.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 186.70154 || 185.56488 || 805.8327 || 956.80634
+
+GROUND TRUTH FOR: 00153_Mask_Mouth_Chin
+label: 285.0 || 319.0 || 860.0 || 992.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 284.692 || 407.4094 || 826.45886 || 999.615
+
+GROUND TRUTH FOR: 00167_Mask_Mouth_Chin
+label: 235.0 || 291.0 || 835.0 || 966.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 258.35226 || 340.11298 || 822.88965 || 942.6402
+
+GROUND TRUTH FOR: 00171_Mask_Mouth_Chin
+label: 227.0 || 243.0 || 769.0 || 943.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9976) 254.03348 || 366.28708 || 782.412 || 910.73975
+
+GROUND TRUTH FOR: 00180_Mask_Mouth_Chin
+label: 167.0 || 166.0 || 742.0 || 907.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9987) 137.56601 || 169.17981 || 757.0436 || 905.1139
+
+GROUND TRUTH FOR: 00189_Mask_Chin
+label: 183.0 || 259.0 || 763.0 || 985.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9978) 177.82321 || 281.74942 || 755.08984 || 952.806
+
+GROUND TRUTH FOR: 00202_Mask_Mouth_Chin
+label: 256.0 || 408.0 || 781.0 || 907.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 252.32024 || 388.63416 || 752.6986 || 893.7191
+
+GROUND TRUTH FOR: 00209_Mask_Mouth_Chin
+label: 253.0 || 289.0 || 811.0 || 977.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 268.6051 || 338.72864 || 829.44495 || 956.2073
+
+GROUND TRUTH FOR: 00214_Mask_Mouth_Chin
+label: 270.0 || 294.0 || 913.0 || 922.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 265.75864 || 314.213 || 897.48425 || 966.39453
+
+GROUND TRUTH FOR: 00226_Mask_Mouth_Chin
+label: 188.0 || 322.0 || 835.0 || 926.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9999) 197.29764 || 291.95813 || 846.10767 || 932.63416
+
+GROUND TRUTH FOR: 00236_Mask_Mouth_Chin
+label: 274.0 || 312.0 || 818.0 || 968.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9969) 292.36896 || 345.72363 || 809.3991 || 958.89526
+
+GROUND TRUTH FOR: 00254_Mask_Mouth_Chin
+label: 176.0 || 273.0 || 721.0 || 975.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9846) 147.66922 || 294.34555 || 753.11975 || 991.14636
+
+GROUND TRUTH FOR: 00273_Mask_Nose_Mouth
+label: 253.0 || 226.0 || 846.0 || 971.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 248.091 || 250.24933 || 833.2985 || 981.27203
+
+GROUND TRUTH FOR: 0029
+label: 436.0 || 57.0 || 582.0 || 245.0 || 0
+
+GROUND TRUTH FOR: 00291_Mask_Mouth_Chin
+label: 241.0 || 236.0 || 876.0 || 847.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 273.8273 || 273.6906 || 847.208 || 863.22894
+
+GROUND TRUTH FOR: 00297_Mask_Mouth_Chin
+label: 176.0 || 243.0 || 755.0 || 929.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9986) 183.34491 || 235.65546 || 754.0909 || 927.11005
+
+GROUND TRUTH FOR: 00298_Mask_Mouth_Chin
+label: 220.0 || 326.0 || 839.0 || 996.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9992) 223.48169 || 315.50162 || 820.73596 || 995.2333
+
+GROUND TRUTH FOR: 00305_Mask_Mouth_Chin
+label: 249.0 || 317.0 || 855.0 || 1001.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 255.51208 || 231.18625 || 848.91113 || 991.02856
+
+GROUND TRUTH FOR: 00312_Mask_Mouth_Chin
+label: 232.0 || 391.0 || 855.0 || 929.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9939) 258.11273 || 387.01126 || 802.2077 || 911.0814
+
+GROUND TRUTH FOR: 00342_Mask_Mouth_Chin
+label: 234.0 || 412.0 || 848.0 || 952.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9983) 241.39743 || 397.43015 || 800.4712 || 949.6797
+
+GROUND TRUTH FOR: 00344_Mask_Mouth_Chin
+label: 137.0 || 354.0 || 725.0 || 1000.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9245) 153.44498 || 338.54672 || 724.98206 || 1001.6432
+
+GROUND TRUTH FOR: 00379_Mask_Mouth_Chin
+label: 207.0 || 247.0 || 767.0 || 959.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 192.46313 || 238.14911 || 791.98486 || 964.85455
+
+GROUND TRUTH FOR: 00389_Mask_Mouth_Chin
+label: 262.0 || 317.0 || 774.0 || 912.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9957) 242.69397 || 336.20648 || 756.88745 || 948.9987
+
+GROUND TRUTH FOR: 00399_Mask_Nose_Mouth
+label: 348.0 || 314.0 || 897.0 || 945.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9973) 317.22873 || 249.23318 || 857.52783 || 991.30444
+
+GROUND TRUTH FOR: 0091
+label: 395.0 || 95.0 || 663.0 || 402.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9842) 396.86148 || 78.46038 || 633.8872 || 397.65887
+
+GROUND TRUTH FOR: 0115
+label: 257.0 || 51.0 || 429.0 || 251.0 || 0
+
+GROUND TRUTH FOR: 0153
+label: 110.0 || 65.0 || 360.0 || 405.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9992) 114.514084 || 83.075165 || 351.1055 || 398.99847
+
+GROUND TRUTH FOR: 0198
+label: 586.0 || 63.0 || 1033.0 || 475.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 623.58923 || 48.135674 || 1014.2108 || 475.25134
+
+GROUND TRUTH FOR: 0201
+label: 415.0 || 119.0 || 838.0 || 666.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9996) 454.3207 || 163.04568 || 818.3863 || 675.21124
+
+GROUND TRUTH FOR: 0212
+label: 261.0 || 31.0 || 496.0 || 303.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9923) 283.17737 || 64.76699 || 487.43323 || 303.62643
+
+GROUND TRUTH FOR: 0243
+label: 195.0 || 61.0 || 818.0 || 579.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.6919) 218.61264 || 139.07712 || 691.1605 || 658.0908
+
+GROUND TRUTH FOR: 0323
+label: 122.0 || 65.0 || 484.0 || 604.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9972) 119.58951 || 88.65246 || 458.39993 || 554.1024
+
+GROUND TRUTH FOR: 0387
+label: 164.0 || 90.0 || 469.0 || 506.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9860) 160.63257 || 155.08926 || 473.1325 || 505.85803
+
+GROUND TRUTH FOR: 0466
+label: 204.0 || 101.0 || 423.0 || 364.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9838) 203.17116 || 131.47484 || 401.6145 || 370.3386
+
+GROUND TRUTH FOR: 0577
+label: 117.0 || 87.0 || 414.0 || 545.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9981) 135.78018 || 119.02899 || 447.04984 || 576.9211
+
+GROUND TRUTH FOR: 0583
+label: 1030.0 || 334.0 || 2021.0 || 1453.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9864) 1125.4086 || 380.21762 || 2035.6335 || 1372.3239
+
+GROUND TRUTH FOR: 0639
+label: 156.0 || 6.0 || 683.0 || 531.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9761) 115.36386 || 9.569103 || 638.49927 || 610.6502
+
+GROUND TRUTH FOR: 0644
+label: 334.0 || 149.0 || 616.0 || 423.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.8684) 321.5882 || 62.825787 || 601.3712 || 508.76727
+
+GROUND TRUTH FOR: 0690
+label: 179.0 || 312.0 || 651.0 || 975.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9992) 192.41612 || 378.0225 || 596.805 || 960.7521
+
+GROUND TRUTH FOR: 0761
+label: 241.0 || 81.0 || 527.0 || 477.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9901) 245.36006 || 134.13242 || 549.7365 || 490.939
+
+GROUND TRUTH FOR: 0769
+label: 148.0 || 74.0 || 400.0 || 406.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9986) 167.53046 || 123.333 || 400.97833 || 424.36557
+
+GROUND TRUTH FOR: 0779
+label: 168.0 || 7.0 || 645.0 || 712.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9987) 175.45891 || 126.68872 || 637.80676 || 691.4526
+
+GROUND TRUTH FOR: 0951
+label: 177.0 || 44.0 || 519.0 || 383.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9974) 182.36491 || 34.09372 || 528.367 || 380.30057
+
+GROUND TRUTH FOR: 0988
+label: 565.0 || 12.0 || 1064.0 || 562.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9970) 547.3064 || 3.658413 || 1074.5569 || 584.9722
+
+GROUND TRUTH FOR: 101
+label: 41.0 || 62.0 || 295.0 || 371.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9557) 68.64055 || 84.446365 || 299.23532 || 331.87375
+
+GROUND TRUTH FOR: 1039
+label: 267.0 || 51.0 || 568.0 || 381.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9875) 285.268 || 75.34392 || 573.85315 || 403.83527
+
+GROUND TRUTH FOR: 1083
+label: 112.0 || 29.0 || 460.0 || 476.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9894) 114.84674 || 35.069485 || 471.37048 || 479.10187
+
+GROUND TRUTH FOR: 1137
+label: 335.0 || 93.0 || 592.0 || 402.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 343.31708 || 78.843864 || 582.01746 || 400.65067
+
+GROUND TRUTH FOR: 128
+label: 60.0 || 35.0 || 258.0 || 284.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7391) 22.975445 || 63.790504 || 213.66353 || 326.56824
+
+GROUND TRUTH FOR: 148
+label: 71.0 || 47.0 || 290.0 || 334.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9531) 50.506435 || 85.9402 || 257.35422 || 330.8822
+
+GROUND TRUTH FOR: 149
+label: 38.0 || 88.0 || 287.0 || 394.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9785) 73.59732 || 72.674034 || 326.59094 || 324.80133
+
+GROUND TRUTH FOR: 1503
+label: 570.0 || 314.0 || 646.0 || 415.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9207) 564.11707 || 315.9751 || 653.69763 || 407.67392
+
+GROUND TRUTH FOR: 1512
+label: 266.0 || 117.0 || 564.0 || 538.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 267.06003 || 117.69859 || 546.958 || 550.4143
+
+GROUND TRUTH FOR: 153
+label: 8.0 || 17.0 || 190.0 || 244.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9317) 30.112665 || 42.348156 || 167.06851 || 193.57178
+
+GROUND TRUTH FOR: 1553
+label: 161.0 || 83.0 || 391.0 || 351.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9935) 165.65204 || 75.92274 || 389.89957 || 361.57114
+
+GROUND TRUTH FOR: 1556
+label: 269.0 || 137.0 || 472.0 || 429.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9982) 235.6824 || 121.86943 || 481.0154 || 420.79935
+
+GROUND TRUTH FOR: 1589
+label: 29.0 || 159.0 || 336.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9786) 31.496143 || 130.5741 || 343.41156 || 487.72302
+
+GROUND TRUTH FOR: 1600
+label: 842.0 || 110.0 || 1249.0 || 647.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9864) 824.46204 || 102.17821 || 1225.1458 || 637.13745
+
+GROUND TRUTH FOR: 161
+label: 13.0 || 81.0 || 156.0 || 254.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9878) 52.522713 || 40.51044 || 218.00237 || 184.11809
+
+GROUND TRUTH FOR: 1702
+label: 215.0 || 59.0 || 500.0 || 391.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9979) 221.17647 || 38.333237 || 508.31033 || 390.88882
+
+GROUND TRUTH FOR: 174
+label: 56.0 || 89.0 || 241.0 || 325.0 || 1
+
+GROUND TRUTH FOR: 177
+label: 94.0 || 44.0 || 186.0 || 150.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9548) 88.17643 || 33.97009 || 163.47202 || 161.04701
+
+GROUND TRUTH FOR: 1818
+label: 144.0 || 158.0 || 348.0 || 409.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 154.47343 || 159.31752 || 346.6548 || 402.92987
+
+GROUND TRUTH FOR: 1829
+label: 262.0 || 204.0 || 523.0 || 504.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9991) 261.52667 || 181.27803 || 554.7906 || 528.4069
+
+GROUND TRUTH FOR: 1877
+label: 891.0 || 882.0 || 1981.0 || 2122.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 854.838 || 693.4466 || 1965.0835 || 2143.949
+
+GROUND TRUTH FOR: 1889
+label: 1133.0 || 538.0 || 2061.0 || 1710.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 1062.5948 || 414.07233 || 2088.6597 || 1689.7578
+
+GROUND TRUTH FOR: 19
+label: 59.0 || 84.0 || 282.0 || 365.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9800) 43.75409 || 77.40555 || 260.16028 || 344.9654
+
+GROUND TRUTH FOR: 1959
+label: 341.0 || 307.0 || 945.0 || 910.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9995) 375.73926 || 307.7788 || 943.20605 || 963.00635
+
+GROUND TRUTH FOR: 1997
+label: 222.0 || 149.0 || 766.0 || 912.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9985) 247.73445 || 161.8688 || 782.0124 || 873.3008
+
+GROUND TRUTH FOR: 203
+label: 108.0 || 35.0 || 197.0 || 157.0 || 1
+
+GROUND TRUTH FOR: 212
+label: 33.0 || 74.0 || 260.0 || 333.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8846) 38.161705 || 91.5906 || 240.93285 || 318.64175
+
+GROUND TRUTH FOR: 2173
+label: 218.0 || 74.0 || 417.0 || 322.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9975) 227.20094 || 68.03048 || 419.50073 || 313.97638
+
+GROUND TRUTH FOR: 2190
+label: 316.0 || 23.0 || 568.0 || 305.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9805) 318.93527 || 27.348576 || 584.08813 || 317.871
+
+GROUND TRUTH FOR: 224
+label: 36.0 || 87.0 || 280.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9761) 57.60826 || 105.15621 || 278.38586 || 347.72217
+
+GROUND TRUTH FOR: 2250
+label: 426.0 || 34.0 || 810.0 || 490.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9941) 360.83575 || -7.6866884 || 849.82275 || 576.64075
+
+GROUND TRUTH FOR: 2264
+label: 149.0 || 65.0 || 550.0 || 543.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 152.48946 || 47.442028 || 564.7216 || 549.8572
+
+GROUND TRUTH FOR: 2317
+label: 196.0 || 73.0 || 415.0 || 393.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 184.51973 || 69.797554 || 425.91486 || 386.6366
+
+GROUND TRUTH FOR: 2409
+label: 201.0 || 138.0 || 357.0 || 292.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9784) 139.58696 || 94.16906 || 361.5786 || 316.8265
+
+GROUND TRUTH FOR: 2483
+label: 14.0 || 57.0 || 298.0 || 506.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 6.0471306 || 41.01505 || 305.98926 || 505.9809
+
+GROUND TRUTH FOR: 258
+label: 47.0 || 64.0 || 276.0 || 359.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9806) 38.0699 || 73.15166 || 269.23132 || 332.49832
+
+GROUND TRUTH FOR: 2592
+label: 254.0 || 78.0 || 811.0 || 622.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9586) 283.8903 || 41.84577 || 828.7546 || 623.4631
+
+GROUND TRUTH FOR: 2638
+label: 101.0 || 196.0 || 438.0 || 631.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 111.15467 || 181.57962 || 434.6613 || 620.1554
+
+GROUND TRUTH FOR: 2659
+label: 186.0 || 33.0 || 511.0 || 524.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9996) 176.38545 || 9.603358 || 523.0278 || 528.9014
+
+GROUND TRUTH FOR: 266
+label: 63.0 || 114.0 || 269.0 || 372.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9198) 56.285973 || 80.35981 || 275.9334 || 353.0292
+
+GROUND TRUTH FOR: 2662
+label: 67.0 || 79.0 || 384.0 || 454.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 84.23498 || 51.8201 || 374.8537 || 475.67
+
+GROUND TRUTH FOR: 269
+label: 60.0 || 90.0 || 225.0 || 280.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7968) 66.19975 || 100.62826 || 225.36197 || 283.1617
+
+GROUND TRUTH FOR: 276
+label: 73.0 || 65.0 || 162.0 || 175.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.6024) 73.095085 || 15.9386635 || 167.26764 || 138.95822
+
+GROUND TRUTH FOR: 28
+label: 40.0 || 139.0 || 306.0 || 415.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9929) 157.87062 || 95.663605 || 397.97852 || 358.8657
+
+GROUND TRUTH FOR: 281
+label: 39.0 || 70.0 || 163.0 || 213.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9321) 54.903263 || 32.624744 || 179.10521 || 200.70877
+
+GROUND TRUTH FOR: 285
+label: 93.0 || 56.0 || 274.0 || 290.0 || 1
+
+GROUND TRUTH FOR: 29
+label: 67.0 || 125.0 || 246.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9539) 69.05142 || 105.22129 || 263.68228 || 349.52
+
+GROUND TRUTH FOR: 294
+label: 51.0 || 89.0 || 265.0 || 378.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9431) 70.25727 || 75.00777 || 313.71704 || 322.38892
+
+GROUND TRUTH FOR: 298
+label: 9.0 || 127.0 || 255.0 || 403.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9741) 70.53341 || 61.166016 || 326.0923 || 301.2631
+
+GROUND TRUTH FOR: 299
+label: 166.0 || 35.0 || 363.0 || 249.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7923) 25.735163 || 293.80927 || 191.60222 || 547.5414
+
+GROUND TRUTH FOR: 309
+label: 68.0 || 92.0 || 271.0 || 371.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8884) 51.368664 || 79.806595 || 277.22614 || 344.471
+
+GROUND TRUTH FOR: 338
+label: 65.0 || 118.0 || 273.0 || 381.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8605) 68.61027 || 59.186047 || 299.09854 || 330.73434
+
+GROUND TRUTH FOR: 345
+label: 47.0 || 79.0 || 273.0 || 370.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9309) 46.66659 || 70.58786 || 262.86044 || 344.3744
+
+GROUND TRUTH FOR: 348
+label: 55.0 || 88.0 || 264.0 || 359.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9291) 58.0206 || 92.15011 || 276.61307 || 350.57513
+
+GROUND TRUTH FOR: 51
+label: 65.0 || 91.0 || 257.0 || 343.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8021) 61.920116 || 79.62979 || 265.74768 || 326.50455
+
+GROUND TRUTH FOR: 56
+label: 67.0 || 80.0 || 268.0 || 381.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8076) 69.628174 || 80.36221 || 298.70996 || 325.5005
+
+GROUND TRUTH FOR: 76
+label: 30.0 || 96.0 || 154.0 || 245.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9066) 27.030256 || 86.90976 || 172.25688 || 259.24615
+
+GROUND TRUTH FOR: 79
+label: 52.0 || 14.0 || 185.0 || 198.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9925) 42.221664 || 30.611355 || 161.63185 || 201.76956
+
+GROUND TRUTH FOR: 92
+label: 58.0 || 145.0 || 306.0 || 410.0 || 1
+PREDICTIONS: 
+1 label: mask score: tensor(0.6743) 152.75325 || 2.0734348 || 364.58273 || 121.8014
+
+GROUND TRUTH FOR: 95
+label: 53.0 || 91.0 || 263.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9055) 52.749943 || 95.65613 || 286.1545 || 348.1762
+
+GROUND TRUTH FOR: real_00003
+label: 107.0 || 120.0 || 416.0 || 575.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9922) 99.3472 || 120.00393 || 408.1859 || 572.1478
+
+GROUND TRUTH FOR: real_00004
+label: 150.0 || 127.0 || 433.0 || 559.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9985) 125.384346 || 109.38892 || 467.65436 || 568.0983
+
+GROUND TRUTH FOR: real_00011
+label: 148.0 || 121.0 || 458.0 || 560.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 143.50972 || 87.48039 || 483.9504 || 581.2297
+
+GROUND TRUTH FOR: real_00017
+label: 118.0 || 126.0 || 485.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9990) 92.110275 || 126.19475 || 491.47705 || 587.3371
+
+GROUND TRUTH FOR: real_00022
+label: 129.0 || 90.0 || 476.0 || 557.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 101.95559 || 79.09128 || 498.915 || 582.51984
+
+GROUND TRUTH FOR: real_00026
+label: 71.0 || 111.0 || 517.0 || 591.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 80.87171 || 102.71175 || 468.82635 || 584.304
+
+GROUND TRUTH FOR: real_00036
+label: 112.0 || 108.0 || 447.0 || 583.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9977) 108.45371 || 132.20013 || 450.33597 || 568.76843
+
+GROUND TRUTH FOR: real_00069
+label: 70.0 || 130.0 || 477.0 || 591.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9986) 71.995125 || 59.88863 || 489.6278 || 591.5997
+
+GROUND TRUTH FOR: real_00072
+label: 106.0 || 98.0 || 510.0 || 545.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 106.15602 || 97.261475 || 485.02127 || 569.19586
+
+GROUND TRUTH FOR: real_00077
+label: 106.0 || 97.0 || 516.0 || 550.0 || 1
+PREDICTIONS: 
+1 label: mask score: tensor(0.9008) 41.435104 || 130.40811 || 495.98 || 577.86926
+
+GROUND TRUTH FOR: real_00083
+label: 131.0 || 200.0 || 448.0 || 587.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9941) 108.21211 || 176.47382 || 457.04214 || 586.25183
+
+GROUND TRUTH FOR: real_00089
+label: 99.0 || 122.0 || 469.0 || 592.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 83.15946 || 87.913155 || 501.45663 || 597.18317
+
+GROUND TRUTH FOR: real_00096
+label: 112.0 || 132.0 || 505.0 || 581.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 122.42832 || 125.68556 || 509.60382 || 588.0204
+
+GROUND TRUTH FOR: real_00099
+label: 98.0 || 151.0 || 564.0 || 592.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 86.91596 || 113.64271 || 573.8389 || 569.9506
+
+GROUND TRUTH FOR: real_00986
+label: 107.0 || 163.0 || 460.0 || 567.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9987) 100.27903 || 131.53378 || 454.53125 || 575.09955
+
+GROUND TRUTH FOR: real_01016
+label: 129.0 || 114.0 || 452.0 || 560.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9984) 131.09262 || 85.90147 || 449.42114 || 571.35913
+
+GROUND TRUTH FOR: real_01020
+label: 110.0 || 157.0 || 528.0 || 576.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 129.29585 || 153.12517 || 503.00266 || 585.9033
+
+GROUND TRUTH FOR: real_01025
+label: 65.0 || 122.0 || 431.0 || 562.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9961) 50.456394 || 102.18041 || 428.53656 || 583.7594
+
+GROUND TRUTH FOR: real_01045
+label: 105.0 || 161.0 || 496.0 || 563.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 112.486534 || 124.762344 || 489.11792 || 556.9691
+
+GROUND TRUTH FOR: real_01059
+label: 113.0 || 133.0 || 447.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9992) 104.29008 || 127.11763 || 468.4554 || 581.4427
+
+GROUND TRUTH FOR: real_01063
+label: 120.0 || 168.0 || 453.0 || 597.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9947) 112.44913 || 219.74406 || 452.66083 || 567.01807
+
+GROUND TRUTH FOR: real_01065
+label: 121.0 || 159.0 || 463.0 || 565.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 119.98964 || 171.62437 || 486.9831 || 575.4052
+
+GROUND TRUTH FOR: 00017_Mask_Chin
+label: 200.0 || 233.0 || 762.0 || 947.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9931) 220.49548 || 330.80267 || 739.59827 || 949.7404
+
+GROUND TRUTH FOR: 00019_Mask_Chin
+label: 211.0 || 315.0 || 746.0 || 908.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9956) 174.26779 || 307.31354 || 748.8291 || 926.2482
+
+GROUND TRUTH FOR: 00026_Mask_Mouth_Chin
+label: 223.0 || 271.0 || 785.0 || 854.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 206.93054 || 305.3131 || 803.7372 || 835.51843
+
+GROUND TRUTH FOR: 00033_Mask_Mouth_Chin
+label: 181.0 || 247.0 || 730.0 || 994.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9964) 91.903625 || 217.87402 || 788.91833 || 1017.0564
+
+GROUND TRUTH FOR: 00041_Mask_Mouth_Chin
+label: 253.0 || 359.0 || 793.0 || 938.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 259.698 || 287.4018 || 794.06946 || 934.19977
+
+GROUND TRUTH FOR: 00050_Mask_Mouth_Chin
+label: 199.0 || 219.0 || 814.0 || 891.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 203.5011 || 278.74405 || 802.98804 || 863.9464
+
+GROUND TRUTH FOR: 00057_Mask_Mouth_Chin
+label: 195.0 || 254.0 || 776.0 || 984.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 193.57996 || 293.61093 || 781.7862 || 982.0404
+
+GROUND TRUTH FOR: 00109_Mask_Mouth_Chin
+label: 202.0 || 357.0 || 667.0 || 931.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9772) 171.78937 || 377.11902 || 695.5405 || 918.1278
+
+GROUND TRUTH FOR: 00112_Mask_Mouth_Chin
+label: 314.0 || 394.0 || 906.0 || 952.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 282.79355 || 352.27985 || 909.6089 || 1003.1778
+
+GROUND TRUTH FOR: 00127_Mask_Chin
+label: 223.0 || 238.0 || 742.0 || 978.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 213.04456 || 286.25388 || 752.66284 || 959.9313
+
+GROUND TRUTH FOR: 00136_Mask_Mouth_Chin
+label: 290.0 || 300.0 || 837.0 || 922.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 281.25592 || 340.97394 || 859.6031 || 913.9378
+
+GROUND TRUTH FOR: 00143_Mask_Mouth_Chin
+label: 176.0 || 152.0 || 814.0 || 938.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 186.70163 || 185.56482 || 805.83276 || 956.8063
+
+GROUND TRUTH FOR: 00153_Mask_Mouth_Chin
+label: 285.0 || 319.0 || 860.0 || 992.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 284.69193 || 407.40942 || 826.45886 || 999.615
+
+GROUND TRUTH FOR: 00167_Mask_Mouth_Chin
+label: 235.0 || 291.0 || 835.0 || 966.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 258.3523 || 340.1129 || 822.88965 || 942.64014
+
+GROUND TRUTH FOR: 00171_Mask_Mouth_Chin
+label: 227.0 || 243.0 || 769.0 || 943.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9976) 254.03348 || 366.28705 || 782.412 || 910.7398
+
+GROUND TRUTH FOR: 00180_Mask_Mouth_Chin
+label: 167.0 || 166.0 || 742.0 || 907.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9987) 137.56607 || 169.1799 || 757.0437 || 905.1139
+
+GROUND TRUTH FOR: 00189_Mask_Chin
+label: 183.0 || 259.0 || 763.0 || 985.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9978) 177.82312 || 281.7494 || 755.0898 || 952.806
+
+GROUND TRUTH FOR: 00202_Mask_Mouth_Chin
+label: 256.0 || 408.0 || 781.0 || 907.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 252.3202 || 388.63422 || 752.69867 || 893.71924
+
+GROUND TRUTH FOR: 00209_Mask_Mouth_Chin
+label: 253.0 || 289.0 || 811.0 || 977.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 268.60507 || 338.72864 || 829.44495 || 956.2073
+
+GROUND TRUTH FOR: 00214_Mask_Mouth_Chin
+label: 270.0 || 294.0 || 913.0 || 922.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 265.75867 || 314.21295 || 897.48425 || 966.3946
+
+GROUND TRUTH FOR: 00226_Mask_Mouth_Chin
+label: 188.0 || 322.0 || 835.0 || 926.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9999) 197.29764 || 291.9582 || 846.10767 || 932.6342
+
+GROUND TRUTH FOR: 00236_Mask_Mouth_Chin
+label: 274.0 || 312.0 || 818.0 || 968.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9969) 292.36896 || 345.72357 || 809.3991 || 958.8952
+
+GROUND TRUTH FOR: 00254_Mask_Mouth_Chin
+label: 176.0 || 273.0 || 721.0 || 975.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9846) 147.66919 || 294.34552 || 753.1199 || 991.1462
+
+GROUND TRUTH FOR: 00273_Mask_Nose_Mouth
+label: 253.0 || 226.0 || 846.0 || 971.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 248.091 || 250.24936 || 833.29865 || 981.272
+
+GROUND TRUTH FOR: 0029
+label: 436.0 || 57.0 || 582.0 || 245.0 || 0
+
+GROUND TRUTH FOR: 00291_Mask_Mouth_Chin
+label: 241.0 || 236.0 || 876.0 || 847.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 273.8273 || 273.6906 || 847.208 || 863.22894
+
+GROUND TRUTH FOR: 00297_Mask_Mouth_Chin
+label: 176.0 || 243.0 || 755.0 || 929.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9986) 183.34494 || 235.65549 || 754.0908 || 927.11
+
+GROUND TRUTH FOR: 00298_Mask_Mouth_Chin
+label: 220.0 || 326.0 || 839.0 || 996.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9992) 223.48169 || 315.5016 || 820.73596 || 995.2333
+
+GROUND TRUTH FOR: 00305_Mask_Mouth_Chin
+label: 249.0 || 317.0 || 855.0 || 1001.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 255.51208 || 231.18613 || 848.91113 || 991.0287
+
+GROUND TRUTH FOR: 00312_Mask_Mouth_Chin
+label: 232.0 || 391.0 || 855.0 || 929.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9939) 258.11282 || 387.01135 || 802.20776 || 911.0814
+
+GROUND TRUTH FOR: 00342_Mask_Mouth_Chin
+label: 234.0 || 412.0 || 848.0 || 952.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9983) 241.39749 || 397.43015 || 800.4712 || 949.6797
+
+GROUND TRUTH FOR: 00344_Mask_Mouth_Chin
+label: 137.0 || 354.0 || 725.0 || 1000.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9245) 153.44485 || 338.54663 || 724.98206 || 1001.64343
+
+GROUND TRUTH FOR: 00379_Mask_Mouth_Chin
+label: 207.0 || 247.0 || 767.0 || 959.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 192.4631 || 238.14917 || 791.98486 || 964.8545
+
+GROUND TRUTH FOR: 00389_Mask_Mouth_Chin
+label: 262.0 || 317.0 || 774.0 || 912.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9957) 242.69403 || 336.20645 || 756.8875 || 948.9988
+
+GROUND TRUTH FOR: 00399_Mask_Nose_Mouth
+label: 348.0 || 314.0 || 897.0 || 945.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9973) 317.2287 || 249.23318 || 857.5278 || 991.30444
+
+GROUND TRUTH FOR: 0091
+label: 395.0 || 95.0 || 663.0 || 402.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9842) 396.86142 || 78.460365 || 633.8872 || 397.6589
+
+GROUND TRUTH FOR: 0115
+label: 257.0 || 51.0 || 429.0 || 251.0 || 0
+
+GROUND TRUTH FOR: 0153
+label: 110.0 || 65.0 || 360.0 || 405.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9992) 114.5141 || 83.07518 || 351.10547 || 398.99847
+
+GROUND TRUTH FOR: 0198
+label: 586.0 || 63.0 || 1033.0 || 475.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 623.5893 || 48.135674 || 1014.2108 || 475.25134
+
+GROUND TRUTH FOR: 0201
+label: 415.0 || 119.0 || 838.0 || 666.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9996) 454.32065 || 163.04568 || 818.3862 || 675.21124
+
+GROUND TRUTH FOR: 0212
+label: 261.0 || 31.0 || 496.0 || 303.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9923) 283.17743 || 64.76701 || 487.43326 || 303.62643
+
+GROUND TRUTH FOR: 0243
+label: 195.0 || 61.0 || 818.0 || 579.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.6919) 218.61264 || 139.07707 || 691.1605 || 658.09076
+
+GROUND TRUTH FOR: 0323
+label: 122.0 || 65.0 || 484.0 || 604.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9972) 119.58951 || 88.65232 || 458.39996 || 554.10236
+
+GROUND TRUTH FOR: 0387
+label: 164.0 || 90.0 || 469.0 || 506.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9860) 160.63261 || 155.0893 || 473.1325 || 505.858
+
+GROUND TRUTH FOR: 0466
+label: 204.0 || 101.0 || 423.0 || 364.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9838) 203.17116 || 131.47487 || 401.6145 || 370.33865
+
+GROUND TRUTH FOR: 0577
+label: 117.0 || 87.0 || 414.0 || 545.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9981) 135.78018 || 119.0289 || 447.04984 || 576.9211
+
+GROUND TRUTH FOR: 0583
+label: 1030.0 || 334.0 || 2021.0 || 1453.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9864) 1125.4086 || 380.21747 || 2035.6335 || 1372.3235
+
+GROUND TRUTH FOR: 0639
+label: 156.0 || 6.0 || 683.0 || 531.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9761) 115.36392 || 9.569245 || 638.4994 || 610.65027
+
+GROUND TRUTH FOR: 0644
+label: 334.0 || 149.0 || 616.0 || 423.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.8684) 321.5882 || 62.82589 || 601.3712 || 508.76727
+
+GROUND TRUTH FOR: 0690
+label: 179.0 || 312.0 || 651.0 || 975.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9992) 192.41612 || 378.0224 || 596.805 || 960.752
+
+GROUND TRUTH FOR: 0761
+label: 241.0 || 81.0 || 527.0 || 477.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9901) 245.36005 || 134.1324 || 549.7365 || 490.939
+
+GROUND TRUTH FOR: 0769
+label: 148.0 || 74.0 || 400.0 || 406.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9986) 167.5305 || 123.33297 || 400.97833 || 424.36557
+
+GROUND TRUTH FOR: 0779
+label: 168.0 || 7.0 || 645.0 || 712.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9987) 175.45891 || 126.68863 || 637.80676 || 691.4525
+
+GROUND TRUTH FOR: 0951
+label: 177.0 || 44.0 || 519.0 || 383.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9974) 182.36493 || 34.093693 || 528.367 || 380.30057
+
+GROUND TRUTH FOR: 0988
+label: 565.0 || 12.0 || 1064.0 || 562.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9970) 547.30646 || 3.658325 || 1074.557 || 584.9723
+
+GROUND TRUTH FOR: 101
+label: 41.0 || 62.0 || 295.0 || 371.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9557) 68.64058 || 84.446365 || 299.23532 || 331.8738
+
+GROUND TRUTH FOR: 1039
+label: 267.0 || 51.0 || 568.0 || 381.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9875) 285.2681 || 75.34393 || 573.85315 || 403.83527
+
+GROUND TRUTH FOR: 1083
+label: 112.0 || 29.0 || 460.0 || 476.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9894) 114.84676 || 35.069447 || 471.37048 || 479.10187
+
+GROUND TRUTH FOR: 1137
+label: 335.0 || 93.0 || 592.0 || 402.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 343.31708 || 78.84386 || 582.01746 || 400.65067
+
+GROUND TRUTH FOR: 128
+label: 60.0 || 35.0 || 258.0 || 284.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7391) 22.975445 || 63.79044 || 213.6635 || 326.56827
+
+GROUND TRUTH FOR: 148
+label: 71.0 || 47.0 || 290.0 || 334.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9531) 50.50645 || 85.94023 || 257.35425 || 330.8822
+
+GROUND TRUTH FOR: 149
+label: 38.0 || 88.0 || 287.0 || 394.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9785) 73.59732 || 72.674034 || 326.59094 || 324.80133
+
+GROUND TRUTH FOR: 1503
+label: 570.0 || 314.0 || 646.0 || 415.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9207) 564.11707 || 315.9751 || 653.69763 || 407.67392
+
+GROUND TRUTH FOR: 1512
+label: 266.0 || 117.0 || 564.0 || 538.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 267.06003 || 117.69857 || 546.958 || 550.41437
+
+GROUND TRUTH FOR: 153
+label: 8.0 || 17.0 || 190.0 || 244.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9317) 30.112673 || 42.348156 || 167.06851 || 193.57178
+
+GROUND TRUTH FOR: 1553
+label: 161.0 || 83.0 || 391.0 || 351.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9935) 165.65207 || 75.92269 || 389.89957 || 361.5712
+
+GROUND TRUTH FOR: 1556
+label: 269.0 || 137.0 || 472.0 || 429.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9982) 235.68242 || 121.86943 || 481.0154 || 420.79935
+
+GROUND TRUTH FOR: 1589
+label: 29.0 || 159.0 || 336.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9786) 31.496157 || 130.57414 || 343.41153 || 487.72293
+
+GROUND TRUTH FOR: 1600
+label: 842.0 || 110.0 || 1249.0 || 647.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9864) 824.46204 || 102.178154 || 1225.1458 || 637.13745
+
+GROUND TRUTH FOR: 161
+label: 13.0 || 81.0 || 156.0 || 254.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9878) 52.522728 || 40.51044 || 218.00237 || 184.1181
+
+GROUND TRUTH FOR: 1702
+label: 215.0 || 59.0 || 500.0 || 391.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9979) 221.17647 || 38.333225 || 508.3103 || 390.88882
+
+GROUND TRUTH FOR: 174
+label: 56.0 || 89.0 || 241.0 || 325.0 || 1
+
+GROUND TRUTH FOR: 177
+label: 94.0 || 44.0 || 186.0 || 150.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9548) 88.17644 || 33.970104 || 163.47203 || 161.04701
+
+GROUND TRUTH FOR: 1818
+label: 144.0 || 158.0 || 348.0 || 409.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 154.47343 || 159.3175 || 346.6548 || 402.92987
+
+GROUND TRUTH FOR: 1829
+label: 262.0 || 204.0 || 523.0 || 504.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9991) 261.5267 || 181.27803 || 554.7906 || 528.4069
+
+GROUND TRUTH FOR: 1877
+label: 891.0 || 882.0 || 1981.0 || 2122.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 854.83813 || 693.44684 || 1965.0835 || 2143.9487
+
+GROUND TRUTH FOR: 1889
+label: 1133.0 || 538.0 || 2061.0 || 1710.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 1062.5947 || 414.0724 || 2088.6597 || 1689.7577
+
+GROUND TRUTH FOR: 19
+label: 59.0 || 84.0 || 282.0 || 365.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9800) 43.754074 || 77.40554 || 260.16028 || 344.96536
+
+GROUND TRUTH FOR: 1959
+label: 341.0 || 307.0 || 945.0 || 910.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9995) 375.73926 || 307.77875 || 943.20605 || 963.00635
+
+GROUND TRUTH FOR: 1997
+label: 222.0 || 149.0 || 766.0 || 912.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9985) 247.73445 || 161.86888 || 782.0124 || 873.3006
+
+GROUND TRUTH FOR: 203
+label: 108.0 || 35.0 || 197.0 || 157.0 || 1
+
+GROUND TRUTH FOR: 212
+label: 33.0 || 74.0 || 260.0 || 333.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8846) 38.16169 || 91.59057 || 240.93288 || 318.64178
+
+GROUND TRUTH FOR: 2173
+label: 218.0 || 74.0 || 417.0 || 322.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9975) 227.20094 || 68.03048 || 419.5007 || 313.9764
+
+GROUND TRUTH FOR: 2190
+label: 316.0 || 23.0 || 568.0 || 305.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9805) 318.93527 || 27.3486 || 584.08813 || 317.871
+
+GROUND TRUTH FOR: 224
+label: 36.0 || 87.0 || 280.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9761) 57.608246 || 105.15614 || 278.38586 || 347.7222
+
+GROUND TRUTH FOR: 2250
+label: 426.0 || 34.0 || 810.0 || 490.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9941) 360.83575 || -7.6866884 || 849.8229 || 576.64075
+
+GROUND TRUTH FOR: 2264
+label: 149.0 || 65.0 || 550.0 || 543.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 152.48952 || 47.44192 || 564.72156 || 549.8571
+
+GROUND TRUTH FOR: 2317
+label: 196.0 || 73.0 || 415.0 || 393.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 184.51973 || 69.79755 || 425.91486 || 386.63666
+
+GROUND TRUTH FOR: 2409
+label: 201.0 || 138.0 || 357.0 || 292.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9784) 139.58698 || 94.16904 || 361.57864 || 316.8265
+
+GROUND TRUTH FOR: 2483
+label: 14.0 || 57.0 || 298.0 || 506.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 6.0471454 || 41.015034 || 305.98926 || 505.98093
+
+GROUND TRUTH FOR: 258
+label: 47.0 || 64.0 || 276.0 || 359.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9806) 38.06989 || 73.151665 || 269.23132 || 332.4984
+
+GROUND TRUTH FOR: 2592
+label: 254.0 || 78.0 || 811.0 || 622.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9586) 283.8903 || 41.84577 || 828.7546 || 623.4631
+
+GROUND TRUTH FOR: 2638
+label: 101.0 || 196.0 || 438.0 || 631.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 111.15464 || 181.57959 || 434.66122 || 620.1554
+
+GROUND TRUTH FOR: 2659
+label: 186.0 || 33.0 || 511.0 || 524.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9996) 176.38539 || 9.603421 || 523.0278 || 528.9014
+
+GROUND TRUTH FOR: 266
+label: 63.0 || 114.0 || 269.0 || 372.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9198) 56.285957 || 80.35981 || 275.9334 || 353.02917
+
+GROUND TRUTH FOR: 2662
+label: 67.0 || 79.0 || 384.0 || 454.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 84.23501 || 51.820133 || 374.8537 || 475.66995
+
+GROUND TRUTH FOR: 269
+label: 60.0 || 90.0 || 225.0 || 280.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7968) 66.19974 || 100.628265 || 225.36197 || 283.1617
+
+GROUND TRUTH FOR: 276
+label: 73.0 || 65.0 || 162.0 || 175.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.6024) 73.09508 || 15.938683 || 167.26764 || 138.9582
+
+GROUND TRUTH FOR: 28
+label: 40.0 || 139.0 || 306.0 || 415.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9929) 157.87062 || 95.6636 || 397.97852 || 358.8657
+
+GROUND TRUTH FOR: 281
+label: 39.0 || 70.0 || 163.0 || 213.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9321) 54.903282 || 32.624718 || 179.1052 || 200.70877
+
+GROUND TRUTH FOR: 285
+label: 93.0 || 56.0 || 274.0 || 290.0 || 1
+
+GROUND TRUTH FOR: 29
+label: 67.0 || 125.0 || 246.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9539) 69.05142 || 105.22133 || 263.6823 || 349.51996
+
+GROUND TRUTH FOR: 294
+label: 51.0 || 89.0 || 265.0 || 378.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9431) 70.25727 || 75.00777 || 313.71704 || 322.38892
+
+GROUND TRUTH FOR: 298
+label: 9.0 || 127.0 || 255.0 || 403.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9741) 70.53341 || 61.166042 || 326.09225 || 301.26312
+
+GROUND TRUTH FOR: 299
+label: 166.0 || 35.0 || 363.0 || 249.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7923) 25.735163 || 293.80927 || 191.60222 || 547.54144
+
+GROUND TRUTH FOR: 309
+label: 68.0 || 92.0 || 271.0 || 371.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8884) 51.368664 || 79.80661 || 277.22614 || 344.47107
+
+GROUND TRUTH FOR: 338
+label: 65.0 || 118.0 || 273.0 || 381.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8605) 68.61027 || 59.186047 || 299.09854 || 330.73434
+
+GROUND TRUTH FOR: 345
+label: 47.0 || 79.0 || 273.0 || 370.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9309) 46.66659 || 70.587845 || 262.86044 || 344.37442
+
+GROUND TRUTH FOR: 348
+label: 55.0 || 88.0 || 264.0 || 359.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9291) 58.020615 || 92.15012 || 276.6131 || 350.5752
+
+GROUND TRUTH FOR: 51
+label: 65.0 || 91.0 || 257.0 || 343.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8021) 61.920143 || 79.629814 || 265.74768 || 326.5045
+
+GROUND TRUTH FOR: 56
+label: 67.0 || 80.0 || 268.0 || 381.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8076) 69.628174 || 80.36221 || 298.70996 || 325.5005
+
+GROUND TRUTH FOR: 76
+label: 30.0 || 96.0 || 154.0 || 245.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9066) 27.030247 || 86.90976 || 172.2569 || 259.24615
+
+GROUND TRUTH FOR: 79
+label: 52.0 || 14.0 || 185.0 || 198.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9925) 42.22168 || 30.611319 || 161.63185 || 201.76956
+
+GROUND TRUTH FOR: 92
+label: 58.0 || 145.0 || 306.0 || 410.0 || 1
+PREDICTIONS: 
+1 label: mask score: tensor(0.6743) 152.75325 || 2.07341 || 364.58273 || 121.80137
+
+GROUND TRUTH FOR: 95
+label: 53.0 || 91.0 || 263.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9055) 52.749958 || 95.65614 || 286.1545 || 348.1762
+
+GROUND TRUTH FOR: real_00003
+label: 107.0 || 120.0 || 416.0 || 575.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9922) 99.34724 || 120.00391 || 408.18594 || 572.14795
+
+GROUND TRUTH FOR: real_00004
+label: 150.0 || 127.0 || 433.0 || 559.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9985) 125.38437 || 109.38887 || 467.65436 || 568.0984
+
+GROUND TRUTH FOR: real_00011
+label: 148.0 || 121.0 || 458.0 || 560.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 143.50975 || 87.48041 || 483.9504 || 581.2296
+
+GROUND TRUTH FOR: real_00017
+label: 118.0 || 126.0 || 485.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9990) 92.11022 || 126.19475 || 491.47705 || 587.3371
+
+GROUND TRUTH FOR: real_00022
+label: 129.0 || 90.0 || 476.0 || 557.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 101.955574 || 79.09128 || 498.91504 || 582.5198
+
+GROUND TRUTH FOR: real_00026
+label: 71.0 || 111.0 || 517.0 || 591.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 80.87175 || 102.71171 || 468.8264 || 584.304
+
+GROUND TRUTH FOR: real_00036
+label: 112.0 || 108.0 || 447.0 || 583.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9977) 108.453674 || 132.2001 || 450.33597 || 568.7685
+
+GROUND TRUTH FOR: real_00069
+label: 70.0 || 130.0 || 477.0 || 591.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9986) 71.995155 || 59.88872 || 489.6279 || 591.5996
+
+GROUND TRUTH FOR: real_00072
+label: 106.0 || 98.0 || 510.0 || 545.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 106.15602 || 97.2615 || 485.02127 || 569.19586
+
+GROUND TRUTH FOR: real_00077
+label: 106.0 || 97.0 || 516.0 || 550.0 || 1
+PREDICTIONS: 
+1 label: mask score: tensor(0.9008) 41.43505 || 130.4081 || 495.98 || 577.8693
+
+GROUND TRUTH FOR: real_00083
+label: 131.0 || 200.0 || 448.0 || 587.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9941) 108.21211 || 176.47379 || 457.04214 || 586.25183
+
+GROUND TRUTH FOR: real_00089
+label: 99.0 || 122.0 || 469.0 || 592.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 83.159515 || 87.913086 || 501.45673 || 597.1832
+
+GROUND TRUTH FOR: real_00096
+label: 112.0 || 132.0 || 505.0 || 581.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 122.42832 || 125.68556 || 509.60382 || 588.02026
+
+GROUND TRUTH FOR: real_00099
+label: 98.0 || 151.0 || 564.0 || 592.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 86.915985 || 113.642746 || 573.839 || 569.95056
+
+GROUND TRUTH FOR: real_00986
+label: 107.0 || 163.0 || 460.0 || 567.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9987) 100.27903 || 131.53374 || 454.53128 || 575.0996
+
+GROUND TRUTH FOR: real_01016
+label: 129.0 || 114.0 || 452.0 || 560.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9984) 131.09265 || 85.90139 || 449.42114 || 571.3592
+
+GROUND TRUTH FOR: real_01020
+label: 110.0 || 157.0 || 528.0 || 576.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 129.29585 || 153.1252 || 503.00266 || 585.9033
+
+GROUND TRUTH FOR: real_01025
+label: 65.0 || 122.0 || 431.0 || 562.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9961) 50.456394 || 102.18045 || 428.53662 || 583.7594
+
+GROUND TRUTH FOR: real_01045
+label: 105.0 || 161.0 || 496.0 || 563.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 112.48659 || 124.7624 || 489.11795 || 556.96906
+
+GROUND TRUTH FOR: real_01059
+label: 113.0 || 133.0 || 447.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9992) 104.290115 || 127.1177 || 468.4554 || 581.4427
+
+GROUND TRUTH FOR: real_01063
+label: 120.0 || 168.0 || 453.0 || 597.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9947) 112.44906 || 219.74403 || 452.66077 || 567.01807
+
+GROUND TRUTH FOR: real_01065
+label: 121.0 || 159.0 || 463.0 || 565.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 119.98969 || 171.62434 || 486.98306 || 575.4052
+
+GROUND TRUTH FOR: 00017_Mask_Chin
+label: 200.0 || 233.0 || 762.0 || 947.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9931) 220.49548 || 330.80267 || 739.59827 || 949.7404
+
+GROUND TRUTH FOR: 00019_Mask_Chin
+label: 211.0 || 315.0 || 746.0 || 908.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9956) 174.26779 || 307.31354 || 748.8291 || 926.2482
+
+GROUND TRUTH FOR: 00026_Mask_Mouth_Chin
+label: 223.0 || 271.0 || 785.0 || 854.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 206.93054 || 305.3131 || 803.7372 || 835.51843
+
+GROUND TRUTH FOR: 00033_Mask_Mouth_Chin
+label: 181.0 || 247.0 || 730.0 || 994.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9964) 91.903625 || 217.87402 || 788.91833 || 1017.0564
+
+GROUND TRUTH FOR: 00041_Mask_Mouth_Chin
+label: 253.0 || 359.0 || 793.0 || 938.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 259.698 || 287.4018 || 794.06946 || 934.19977
+
+GROUND TRUTH FOR: 00050_Mask_Mouth_Chin
+label: 199.0 || 219.0 || 814.0 || 891.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 203.5011 || 278.74405 || 802.98804 || 863.9464
+
+GROUND TRUTH FOR: 00057_Mask_Mouth_Chin
+label: 195.0 || 254.0 || 776.0 || 984.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 193.57996 || 293.61093 || 781.7862 || 982.0404
+
+GROUND TRUTH FOR: 00109_Mask_Mouth_Chin
+label: 202.0 || 357.0 || 667.0 || 931.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9772) 171.78928 || 377.1189 || 695.54065 || 918.1279
+
+GROUND TRUTH FOR: 00112_Mask_Mouth_Chin
+label: 314.0 || 394.0 || 906.0 || 952.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 282.79355 || 352.27985 || 909.6089 || 1003.1778
+
+GROUND TRUTH FOR: 00127_Mask_Chin
+label: 223.0 || 238.0 || 742.0 || 978.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9979) 213.04456 || 286.25388 || 752.66284 || 959.9313
+
+GROUND TRUTH FOR: 00136_Mask_Mouth_Chin
+label: 290.0 || 300.0 || 837.0 || 922.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 281.25592 || 340.97394 || 859.6031 || 913.9378
+
+GROUND TRUTH FOR: 00143_Mask_Mouth_Chin
+label: 176.0 || 152.0 || 814.0 || 938.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 186.70163 || 185.56482 || 805.83276 || 956.8063
+
+GROUND TRUTH FOR: 00153_Mask_Mouth_Chin
+label: 285.0 || 319.0 || 860.0 || 992.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 284.69193 || 407.40942 || 826.45886 || 999.615
+
+GROUND TRUTH FOR: 00167_Mask_Mouth_Chin
+label: 235.0 || 291.0 || 835.0 || 966.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 258.3523 || 340.1129 || 822.88965 || 942.64014
+
+GROUND TRUTH FOR: 00171_Mask_Mouth_Chin
+label: 227.0 || 243.0 || 769.0 || 943.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9976) 254.03348 || 366.28705 || 782.412 || 910.7398
+
+GROUND TRUTH FOR: 00180_Mask_Mouth_Chin
+label: 167.0 || 166.0 || 742.0 || 907.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9987) 137.56607 || 169.1799 || 757.0437 || 905.1139
+
+GROUND TRUTH FOR: 00189_Mask_Chin
+label: 183.0 || 259.0 || 763.0 || 985.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9978) 177.82312 || 281.7494 || 755.0898 || 952.806
+
+GROUND TRUTH FOR: 00202_Mask_Mouth_Chin
+label: 256.0 || 408.0 || 781.0 || 907.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 252.32024 || 388.63416 || 752.6986 || 893.7191
+
+GROUND TRUTH FOR: 00209_Mask_Mouth_Chin
+label: 253.0 || 289.0 || 811.0 || 977.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 268.60507 || 338.72864 || 829.44495 || 956.2073
+
+GROUND TRUTH FOR: 00214_Mask_Mouth_Chin
+label: 270.0 || 294.0 || 913.0 || 922.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 265.75867 || 314.21295 || 897.48425 || 966.3946
+
+GROUND TRUTH FOR: 00226_Mask_Mouth_Chin
+label: 188.0 || 322.0 || 835.0 || 926.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9999) 197.29764 || 291.9582 || 846.10767 || 932.6342
+
+GROUND TRUTH FOR: 00236_Mask_Mouth_Chin
+label: 274.0 || 312.0 || 818.0 || 968.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9969) 292.36896 || 345.72357 || 809.3991 || 958.8952
+
+GROUND TRUTH FOR: 00254_Mask_Mouth_Chin
+label: 176.0 || 273.0 || 721.0 || 975.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9846) 147.66919 || 294.34552 || 753.1199 || 991.1462
+
+GROUND TRUTH FOR: 00273_Mask_Nose_Mouth
+label: 253.0 || 226.0 || 846.0 || 971.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 248.091 || 250.24936 || 833.29865 || 981.272
+
+GROUND TRUTH FOR: 0029
+label: 436.0 || 57.0 || 582.0 || 245.0 || 0
+
+GROUND TRUTH FOR: 00291_Mask_Mouth_Chin
+label: 241.0 || 236.0 || 876.0 || 847.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 273.8273 || 273.6906 || 847.208 || 863.22894
+
+GROUND TRUTH FOR: 00297_Mask_Mouth_Chin
+label: 176.0 || 243.0 || 755.0 || 929.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9986) 183.34494 || 235.65549 || 754.0908 || 927.11
+
+GROUND TRUTH FOR: 00298_Mask_Mouth_Chin
+label: 220.0 || 326.0 || 839.0 || 996.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9992) 223.48169 || 315.5016 || 820.73596 || 995.2333
+
+GROUND TRUTH FOR: 00305_Mask_Mouth_Chin
+label: 249.0 || 317.0 || 855.0 || 1001.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 255.51208 || 231.18613 || 848.91113 || 991.0287
+
+GROUND TRUTH FOR: 00312_Mask_Mouth_Chin
+label: 232.0 || 391.0 || 855.0 || 929.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9939) 258.11282 || 387.01135 || 802.20776 || 911.0814
+
+GROUND TRUTH FOR: 00342_Mask_Mouth_Chin
+label: 234.0 || 412.0 || 848.0 || 952.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9983) 241.39749 || 397.43015 || 800.4712 || 949.6797
+
+GROUND TRUTH FOR: 00344_Mask_Mouth_Chin
+label: 137.0 || 354.0 || 725.0 || 1000.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9245) 153.44485 || 338.54663 || 724.98206 || 1001.64343
+
+GROUND TRUTH FOR: 00379_Mask_Mouth_Chin
+label: 207.0 || 247.0 || 767.0 || 959.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 192.4631 || 238.14917 || 791.98486 || 964.8545
+
+GROUND TRUTH FOR: 00389_Mask_Mouth_Chin
+label: 262.0 || 317.0 || 774.0 || 912.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9957) 242.69403 || 336.20645 || 756.8875 || 948.9988
+
+GROUND TRUTH FOR: 00399_Mask_Nose_Mouth
+label: 348.0 || 314.0 || 897.0 || 945.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9973) 317.2287 || 249.23318 || 857.5278 || 991.30444
+
+GROUND TRUTH FOR: 0091
+label: 395.0 || 95.0 || 663.0 || 402.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9842) 396.86148 || 78.46038 || 633.8872 || 397.65887
+
+GROUND TRUTH FOR: 0115
+label: 257.0 || 51.0 || 429.0 || 251.0 || 0
+
+GROUND TRUTH FOR: 0153
+label: 110.0 || 65.0 || 360.0 || 405.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9992) 114.514084 || 83.075165 || 351.1055 || 398.99847
+
+GROUND TRUTH FOR: 0198
+label: 586.0 || 63.0 || 1033.0 || 475.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 623.58923 || 48.135674 || 1014.2108 || 475.25134
+
+GROUND TRUTH FOR: 0201
+label: 415.0 || 119.0 || 838.0 || 666.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9996) 454.32065 || 163.04568 || 818.3862 || 675.21124
+
+GROUND TRUTH FOR: 0212
+label: 261.0 || 31.0 || 496.0 || 303.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9923) 283.17737 || 64.76699 || 487.43323 || 303.62643
+
+GROUND TRUTH FOR: 0243
+label: 195.0 || 61.0 || 818.0 || 579.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.6919) 218.61264 || 139.07707 || 691.1605 || 658.09076
+
+GROUND TRUTH FOR: 0323
+label: 122.0 || 65.0 || 484.0 || 604.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9972) 119.58951 || 88.65232 || 458.39996 || 554.10236
+
+GROUND TRUTH FOR: 0387
+label: 164.0 || 90.0 || 469.0 || 506.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9860) 160.63261 || 155.0893 || 473.1325 || 505.858
+
+GROUND TRUTH FOR: 0466
+label: 204.0 || 101.0 || 423.0 || 364.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9838) 203.17116 || 131.47484 || 401.6145 || 370.3386
+
+GROUND TRUTH FOR: 0577
+label: 117.0 || 87.0 || 414.0 || 545.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9981) 135.78018 || 119.0289 || 447.04984 || 576.9211
+
+GROUND TRUTH FOR: 0583
+label: 1030.0 || 334.0 || 2021.0 || 1453.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9864) 1125.4086 || 380.21762 || 2035.6335 || 1372.3239
+
+GROUND TRUTH FOR: 0639
+label: 156.0 || 6.0 || 683.0 || 531.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9761) 115.36392 || 9.569245 || 638.4994 || 610.65027
+
+GROUND TRUTH FOR: 0644
+label: 334.0 || 149.0 || 616.0 || 423.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.8684) 321.5882 || 62.825787 || 601.3712 || 508.76727
+
+GROUND TRUTH FOR: 0690
+label: 179.0 || 312.0 || 651.0 || 975.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9992) 192.41612 || 378.0225 || 596.805 || 960.7521
+
+GROUND TRUTH FOR: 0761
+label: 241.0 || 81.0 || 527.0 || 477.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9901) 245.36006 || 134.13242 || 549.7365 || 490.939
+
+GROUND TRUTH FOR: 0769
+label: 148.0 || 74.0 || 400.0 || 406.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9986) 167.53046 || 123.333 || 400.97833 || 424.36557
+
+GROUND TRUTH FOR: 0779
+label: 168.0 || 7.0 || 645.0 || 712.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9987) 175.45891 || 126.68863 || 637.80676 || 691.4525
+
+GROUND TRUTH FOR: 0951
+label: 177.0 || 44.0 || 519.0 || 383.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9974) 182.36493 || 34.093693 || 528.367 || 380.30057
+
+GROUND TRUTH FOR: 0988
+label: 565.0 || 12.0 || 1064.0 || 562.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9970) 547.30646 || 3.658325 || 1074.557 || 584.9723
+
+GROUND TRUTH FOR: 101
+label: 41.0 || 62.0 || 295.0 || 371.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9557) 68.64058 || 84.446365 || 299.23532 || 331.8738
+
+GROUND TRUTH FOR: 1039
+label: 267.0 || 51.0 || 568.0 || 381.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9875) 285.2681 || 75.34393 || 573.85315 || 403.83527
+
+GROUND TRUTH FOR: 1083
+label: 112.0 || 29.0 || 460.0 || 476.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9894) 114.84676 || 35.069447 || 471.37048 || 479.10187
+
+GROUND TRUTH FOR: 1137
+label: 335.0 || 93.0 || 592.0 || 402.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 343.31708 || 78.843864 || 582.01746 || 400.65067
+
+GROUND TRUTH FOR: 128
+label: 60.0 || 35.0 || 258.0 || 284.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7391) 22.975445 || 63.79044 || 213.6635 || 326.56827
+
+GROUND TRUTH FOR: 148
+label: 71.0 || 47.0 || 290.0 || 334.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9531) 50.50645 || 85.94023 || 257.35425 || 330.8822
+
+GROUND TRUTH FOR: 149
+label: 38.0 || 88.0 || 287.0 || 394.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9785) 73.59732 || 72.674034 || 326.59094 || 324.80133
+
+GROUND TRUTH FOR: 1503
+label: 570.0 || 314.0 || 646.0 || 415.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9207) 564.11707 || 315.9751 || 653.69763 || 407.67392
+
+GROUND TRUTH FOR: 1512
+label: 266.0 || 117.0 || 564.0 || 538.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 267.06003 || 117.69859 || 546.958 || 550.4143
+
+GROUND TRUTH FOR: 153
+label: 8.0 || 17.0 || 190.0 || 244.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9317) 30.112673 || 42.348156 || 167.06851 || 193.57178
+
+GROUND TRUTH FOR: 1553
+label: 161.0 || 83.0 || 391.0 || 351.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9935) 165.65204 || 75.92274 || 389.89957 || 361.57114
+
+GROUND TRUTH FOR: 1556
+label: 269.0 || 137.0 || 472.0 || 429.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9982) 235.6824 || 121.86943 || 481.0154 || 420.79935
+
+GROUND TRUTH FOR: 1589
+label: 29.0 || 159.0 || 336.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9786) 31.496157 || 130.57414 || 343.41153 || 487.72293
+
+GROUND TRUTH FOR: 1600
+label: 842.0 || 110.0 || 1249.0 || 647.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9864) 824.46204 || 102.17821 || 1225.1458 || 637.13745
+
+GROUND TRUTH FOR: 161
+label: 13.0 || 81.0 || 156.0 || 254.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9878) 52.522728 || 40.51044 || 218.00237 || 184.1181
+
+GROUND TRUTH FOR: 1702
+label: 215.0 || 59.0 || 500.0 || 391.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9979) 221.17647 || 38.333225 || 508.3103 || 390.88882
+
+GROUND TRUTH FOR: 174
+label: 56.0 || 89.0 || 241.0 || 325.0 || 1
+
+GROUND TRUTH FOR: 177
+label: 94.0 || 44.0 || 186.0 || 150.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9548) 88.17644 || 33.970104 || 163.47203 || 161.04701
+
+GROUND TRUTH FOR: 1818
+label: 144.0 || 158.0 || 348.0 || 409.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 154.47343 || 159.31752 || 346.6548 || 402.92987
+
+GROUND TRUTH FOR: 1829
+label: 262.0 || 204.0 || 523.0 || 504.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9991) 261.52667 || 181.27803 || 554.7906 || 528.4069
+
+GROUND TRUTH FOR: 1877
+label: 891.0 || 882.0 || 1981.0 || 2122.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 854.838 || 693.4466 || 1965.0835 || 2143.949
+
+GROUND TRUTH FOR: 1889
+label: 1133.0 || 538.0 || 2061.0 || 1710.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 1062.5947 || 414.0724 || 2088.6597 || 1689.7577
+
+GROUND TRUTH FOR: 19
+label: 59.0 || 84.0 || 282.0 || 365.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9800) 43.754074 || 77.40554 || 260.16028 || 344.96536
+
+GROUND TRUTH FOR: 1959
+label: 341.0 || 307.0 || 945.0 || 910.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9995) 375.73926 || 307.7788 || 943.20605 || 963.00635
+
+GROUND TRUTH FOR: 1997
+label: 222.0 || 149.0 || 766.0 || 912.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9985) 247.73445 || 161.8688 || 782.0124 || 873.3008
+
+GROUND TRUTH FOR: 203
+label: 108.0 || 35.0 || 197.0 || 157.0 || 1
+
+GROUND TRUTH FOR: 212
+label: 33.0 || 74.0 || 260.0 || 333.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8846) 38.16169 || 91.59057 || 240.93288 || 318.64178
+
+GROUND TRUTH FOR: 2173
+label: 218.0 || 74.0 || 417.0 || 322.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9975) 227.20094 || 68.03048 || 419.50073 || 313.97638
+
+GROUND TRUTH FOR: 2190
+label: 316.0 || 23.0 || 568.0 || 305.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9805) 318.93527 || 27.3486 || 584.08813 || 317.871
+
+GROUND TRUTH FOR: 224
+label: 36.0 || 87.0 || 280.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9761) 57.608246 || 105.15614 || 278.38586 || 347.7222
+
+GROUND TRUTH FOR: 2250
+label: 426.0 || 34.0 || 810.0 || 490.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9941) 360.83575 || -7.6866884 || 849.8229 || 576.64075
+
+GROUND TRUTH FOR: 2264
+label: 149.0 || 65.0 || 550.0 || 543.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 152.48952 || 47.44192 || 564.72156 || 549.8571
+
+GROUND TRUTH FOR: 2317
+label: 196.0 || 73.0 || 415.0 || 393.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9997) 184.51973 || 69.797554 || 425.91486 || 386.6366
+
+GROUND TRUTH FOR: 2409
+label: 201.0 || 138.0 || 357.0 || 292.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9784) 139.58696 || 94.16906 || 361.5786 || 316.8265
+
+GROUND TRUTH FOR: 2483
+label: 14.0 || 57.0 || 298.0 || 506.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9980) 6.0471454 || 41.015034 || 305.98926 || 505.98093
+
+GROUND TRUTH FOR: 258
+label: 47.0 || 64.0 || 276.0 || 359.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9806) 38.06989 || 73.151665 || 269.23132 || 332.4984
+
+GROUND TRUTH FOR: 2592
+label: 254.0 || 78.0 || 811.0 || 622.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9586) 283.8903 || 41.84577 || 828.7546 || 623.4631
+
+GROUND TRUTH FOR: 2638
+label: 101.0 || 196.0 || 438.0 || 631.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 111.15464 || 181.57959 || 434.66122 || 620.1554
+
+GROUND TRUTH FOR: 2659
+label: 186.0 || 33.0 || 511.0 || 524.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9996) 176.38539 || 9.603421 || 523.0278 || 528.9014
+
+GROUND TRUTH FOR: 266
+label: 63.0 || 114.0 || 269.0 || 372.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9198) 56.285957 || 80.35981 || 275.9334 || 353.02917
+
+GROUND TRUTH FOR: 2662
+label: 67.0 || 79.0 || 384.0 || 454.0 || 0
+PREDICTIONS: 
+1 label: mask score: tensor(0.9998) 84.23501 || 51.820133 || 374.8537 || 475.66995
+
+GROUND TRUTH FOR: 269
+label: 60.0 || 90.0 || 225.0 || 280.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7968) 66.19974 || 100.628265 || 225.36197 || 283.1617
+
+GROUND TRUTH FOR: 276
+label: 73.0 || 65.0 || 162.0 || 175.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.6024) 73.095085 || 15.9386635 || 167.26764 || 138.95822
+
+GROUND TRUTH FOR: 28
+label: 40.0 || 139.0 || 306.0 || 415.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9929) 157.87062 || 95.6636 || 397.97852 || 358.8657
+
+GROUND TRUTH FOR: 281
+label: 39.0 || 70.0 || 163.0 || 213.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9321) 54.903282 || 32.624718 || 179.1052 || 200.70877
+
+GROUND TRUTH FOR: 285
+label: 93.0 || 56.0 || 274.0 || 290.0 || 1
+
+GROUND TRUTH FOR: 29
+label: 67.0 || 125.0 || 246.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9539) 69.05142 || 105.22133 || 263.6823 || 349.51996
+
+GROUND TRUTH FOR: 294
+label: 51.0 || 89.0 || 265.0 || 378.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9431) 70.25727 || 75.00777 || 313.71704 || 322.38892
+
+GROUND TRUTH FOR: 298
+label: 9.0 || 127.0 || 255.0 || 403.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9741) 70.53341 || 61.166042 || 326.09225 || 301.26312
+
+GROUND TRUTH FOR: 299
+label: 166.0 || 35.0 || 363.0 || 249.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.7923) 25.735163 || 293.80927 || 191.60222 || 547.5414
+
+GROUND TRUTH FOR: 309
+label: 68.0 || 92.0 || 271.0 || 371.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8884) 51.368664 || 79.80661 || 277.22614 || 344.47107
+
+GROUND TRUTH FOR: 338
+label: 65.0 || 118.0 || 273.0 || 381.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8605) 68.61027 || 59.186047 || 299.09854 || 330.73434
+
+GROUND TRUTH FOR: 345
+label: 47.0 || 79.0 || 273.0 || 370.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9309) 46.66659 || 70.587845 || 262.86044 || 344.37442
+
+GROUND TRUTH FOR: 348
+label: 55.0 || 88.0 || 264.0 || 359.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9291) 58.020615 || 92.15012 || 276.6131 || 350.5752
+
+GROUND TRUTH FOR: 51
+label: 65.0 || 91.0 || 257.0 || 343.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8021) 61.920143 || 79.629814 || 265.74768 || 326.5045
+
+GROUND TRUTH FOR: 56
+label: 67.0 || 80.0 || 268.0 || 381.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.8076) 69.628174 || 80.36221 || 298.70996 || 325.5005
+
+GROUND TRUTH FOR: 76
+label: 30.0 || 96.0 || 154.0 || 245.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9066) 27.030247 || 86.90976 || 172.2569 || 259.24615
+
+GROUND TRUTH FOR: 79
+label: 52.0 || 14.0 || 185.0 || 198.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9925) 42.22168 || 30.611319 || 161.63185 || 201.76956
+
+GROUND TRUTH FOR: 92
+label: 58.0 || 145.0 || 306.0 || 410.0 || 1
+PREDICTIONS: 
+1 label: mask score: tensor(0.6743) 152.75325 || 2.0734348 || 364.58273 || 121.8014
+
+GROUND TRUTH FOR: 95
+label: 53.0 || 91.0 || 263.0 || 375.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9055) 52.749958 || 95.65614 || 286.1545 || 348.1762
+
+GROUND TRUTH FOR: real_00003
+label: 107.0 || 120.0 || 416.0 || 575.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9922) 99.34724 || 120.00391 || 408.18594 || 572.14795
+
+GROUND TRUTH FOR: real_00004
+label: 150.0 || 127.0 || 433.0 || 559.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9985) 125.38437 || 109.38887 || 467.65436 || 568.0984
+
+GROUND TRUTH FOR: real_00011
+label: 148.0 || 121.0 || 458.0 || 560.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 143.50975 || 87.48041 || 483.9504 || 581.2296
+
+GROUND TRUTH FOR: real_00017
+label: 118.0 || 126.0 || 485.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9990) 92.11022 || 126.19475 || 491.47705 || 587.3371
+
+GROUND TRUTH FOR: real_00022
+label: 129.0 || 90.0 || 476.0 || 557.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 101.955574 || 79.09128 || 498.91504 || 582.5198
+
+GROUND TRUTH FOR: real_00026
+label: 71.0 || 111.0 || 517.0 || 591.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 80.87175 || 102.71171 || 468.8264 || 584.304
+
+GROUND TRUTH FOR: real_00036
+label: 112.0 || 108.0 || 447.0 || 583.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9977) 108.453674 || 132.2001 || 450.33597 || 568.7685
+
+GROUND TRUTH FOR: real_00069
+label: 70.0 || 130.0 || 477.0 || 591.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9986) 71.995155 || 59.88872 || 489.6279 || 591.5996
+
+GROUND TRUTH FOR: real_00072
+label: 106.0 || 98.0 || 510.0 || 545.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9997) 106.15602 || 97.2615 || 485.02127 || 569.19586
+
+GROUND TRUTH FOR: real_00077
+label: 106.0 || 97.0 || 516.0 || 550.0 || 1
+PREDICTIONS: 
+1 label: mask score: tensor(0.9008) 41.43505 || 130.4081 || 495.98 || 577.8693
+
+GROUND TRUTH FOR: real_00083
+label: 131.0 || 200.0 || 448.0 || 587.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9941) 108.21211 || 176.47379 || 457.04214 || 586.25183
+
+GROUND TRUTH FOR: real_00089
+label: 99.0 || 122.0 || 469.0 || 592.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9998) 83.159515 || 87.913086 || 501.45673 || 597.1832
+
+GROUND TRUTH FOR: real_00096
+label: 112.0 || 132.0 || 505.0 || 581.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9995) 122.42832 || 125.68556 || 509.60382 || 588.02026
+
+GROUND TRUTH FOR: real_00099
+label: 98.0 || 151.0 || 564.0 || 592.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9994) 86.915985 || 113.642746 || 573.839 || 569.95056
+
+GROUND TRUTH FOR: real_00986
+label: 107.0 || 163.0 || 460.0 || 567.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9987) 100.27903 || 131.53374 || 454.53128 || 575.0996
+
+GROUND TRUTH FOR: real_01016
+label: 129.0 || 114.0 || 452.0 || 560.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9984) 131.09265 || 85.90139 || 449.42114 || 571.3592
+
+GROUND TRUTH FOR: real_01020
+label: 110.0 || 157.0 || 528.0 || 576.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9993) 129.29585 || 153.1252 || 503.00266 || 585.9033
+
+GROUND TRUTH FOR: real_01025
+label: 65.0 || 122.0 || 431.0 || 562.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9961) 50.456394 || 102.18045 || 428.53662 || 583.7594
+
+GROUND TRUTH FOR: real_01045
+label: 105.0 || 161.0 || 496.0 || 563.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9996) 112.48659 || 124.7624 || 489.11795 || 556.96906
+
+GROUND TRUTH FOR: real_01059
+label: 113.0 || 133.0 || 447.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9992) 104.290115 || 127.1177 || 468.4554 || 581.4427
+
+GROUND TRUTH FOR: real_01063
+label: 120.0 || 168.0 || 453.0 || 597.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9947) 112.44906 || 219.74403 || 452.66077 || 567.01807
+
+GROUND TRUTH FOR: real_01065
+label: 121.0 || 159.0 || 463.0 || 565.0 || 1
+PREDICTIONS: 
+1 label: nomask score: tensor(0.9991) 119.98969 || 171.62434 || 486.98306 || 575.4052
